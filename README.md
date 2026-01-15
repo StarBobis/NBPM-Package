@@ -1,6 +1,9 @@
-# NBP-Package
+# NBPM-Package
 
-3Dmigoto Preconfigured For Certain Action Game.
+3Dmigoto Preconfigured For Certain Action Game Mobile Version.
+
+- F6 to switch between mod open or close.
+- Ctrl + U to hide or show GUI for take screenshot.
 
 # Manually Check Used
 
@@ -14,7 +17,7 @@ Don't forget to update VSCheck list and generate VSCheck in your SSMT's WorkPage
 
 # Warning
 
-You may get 30days account ban when you play 3Dmigoto with this game, even a forever ban is highly possible.
+You may get 30 days / 10 years account ban when you play 3Dmigoto with this game, even a forever ban is highly possible.
 
 Take your own risk to use it.
 
