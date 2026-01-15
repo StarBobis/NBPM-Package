@@ -5,6 +5,10 @@
 - F6 to switch between mod open or close.
 - Ctrl + U to hide or show GUI for take screenshot.
 
+# Existed bug
+
+It's under test so not function on all scene, now if you modify cloth ,the physics of cloth will lose.
+
 # Manually Check Used
 
 This config use manually check instead of global check to:
